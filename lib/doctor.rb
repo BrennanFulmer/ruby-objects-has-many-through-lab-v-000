@@ -1,4 +1,4 @@
-
+item = Appointment.new(patient, self, date)
 class Doctor
   attr_accessor :name
   @@all = []
